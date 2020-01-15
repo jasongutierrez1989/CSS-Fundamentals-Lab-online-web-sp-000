@@ -6,3 +6,6 @@ body {
 header, section#featured-property {
   text-align: center
 }
+figcaption {
+  font-size: 10px
+}
