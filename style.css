@@ -3,6 +3,6 @@ body {
   height: 100%;
   margin: 0;
 }
-header, figure, figcaption, p {
+header, section#featured-property {
   text-align: center
 }
